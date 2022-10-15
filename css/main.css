@@ -148,8 +148,7 @@ a:hover {
 }
 .tg-icon,
 .git-icon {
-  width: 2rem;
-  height: 2rem;
+  max-width: calc(var(--index) * 1.25);
 
   transition: var(--transition);
   will-change: transform;
