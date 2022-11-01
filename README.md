@@ -1,3 +1,5 @@
 # Portfolio
 
-# Made by Mars S.
+# Made by Mirakbar N.
+
+# You can find me anywhere by @qqowwiowow
